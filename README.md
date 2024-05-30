@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **NodeJs,Nuxt**
 
-- 👨‍💻 All of my projects are available at [https://v3da-bit.github.io/Vedant_Portfolio/](https://v3da-bit.github.io/Vedant_Portfolio/)
+- 👨‍💻 Here's My Portfolio [https://v3da-bit.github.io/Vedant_Portfolio/](https://v3da-bit.github.io/Vedant_Portfolio/)
 
 - 💬 Ask me about **Reactjs,NextJs,Js,TypeScript**
 
