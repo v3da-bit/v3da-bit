@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=v3da-bit" alt="v3da-bit" /></a> </p>
 
-- 🔭 I’m currently working on [Agoracom]([https://github.com/v3da-bit/Agoracom](https://agoracom.vercel.app/))
+- 🔭 I’m currently working on [Agoracom](https://agoracom.vercel.app/)
 
 - 🌱 I’m currently learning **NodeJs,Nuxt**
 
