@@ -11,7 +11,7 @@
 
 - 👨‍💻 Here's My Portfolio [https://v3da-bit.github.io/Vedant_Portfolio/](https://v3da-bit.github.io/Vedant_Portfolio/)
 
-- 💬 Ask me about **Reactjs,NextJs,Js,TypeScript**
+- 💬 Ask me about **Reactjs,NextJs,Js,TypeScript,NodeJs**
 
 - 📫 How to reach me **vedantkhamar975@gmail.com**
 
